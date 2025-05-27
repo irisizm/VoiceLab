@@ -1,4 +1,8 @@
 {
-    "ABC123": {"blacklist": false},
-    "DEF456": {"blacklist": true}
+  "ABC123": {
+    "expiry": "2025-07-01"
+  },
+  "DEF456": {
+    "expiry": "2025-06-15"
+  }
 }
